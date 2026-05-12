@@ -1,0 +1,123 @@
+﻿
+Config: Конфиг №1.bat (Type: standard)
+  Discord Main : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 86 ms
+  Discord Gateway : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 85 ms
+  Discord CDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 85 ms
+  Discord Updates : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 86 ms
+  YouTube Web : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 54 ms
+  YouTube Short : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 51 ms
+  YouTube Image : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 53 ms
+  YouTube Video Redirect : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 54 ms
+  Google Main : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 53 ms
+  Google Gstatic : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 51 ms
+  Cloudflare Web : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 43 ms
+  Cloudflare CDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 43 ms
+  Cloudflare DNS 1.1.1.1 :  | Ping: 43 ms
+  Cloudflare DNS 1.0.0.1 :  | Ping: 43 ms
+  Google DNS 8.8.8.8 :  | Ping: 55 ms
+  Google DNS 8.8.4.4 :  | Ping: 49 ms
+  Quad9 DNS 9.9.9.9 :  | Ping: 84 ms
+
+Config: Конфиг №2.bat (Type: standard)
+  Discord Main : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 86 ms
+  Discord Gateway : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 85 ms
+  Discord CDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 85 ms
+  Discord Updates : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 86 ms
+  YouTube Web : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 54 ms
+  YouTube Short : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 51 ms
+  YouTube Image : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 53 ms
+  YouTube Video Redirect : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 54 ms
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  Google Gstatic : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 50 ms
+  Cloudflare Web : HTTP:OK    TLS1.2:OK    TLS1.3:ERROR | Ping: 43 ms
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  Cloudflare DNS 1.1.1.1 :  | Ping: 43 ms
+  Cloudflare DNS 1.0.0.1 :  | Ping: 43 ms
+  Google DNS 8.8.8.8 :  | Ping: 54 ms
+  Google DNS 8.8.4.4 :  | Ping: 50 ms
+  Quad9 DNS 9.9.9.9 :  | Ping: 84 ms
+
+Config: Конфиг №3(FAKE TLS).bat (Type: standard)
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  Discord CDN : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 85 ms
+  Discord Updates : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 86 ms
+  YouTube Web : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 58 ms
+  YouTube Short : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 55 ms
+  YouTube Image : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 53 ms
+  YouTube Video Redirect : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 51 ms
+  Google Main : HTTP:ERROR TLS1.2:OK    TLS1.3:OK    | Ping: 53 ms
+  Google Gstatic : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 51 ms
+  Cloudflare Web : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 43 ms
+  Cloudflare CDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 42 ms
+  Cloudflare DNS 1.1.1.1 :  | Ping: 43 ms
+  Cloudflare DNS 1.0.0.1 :  | Ping: 43 ms
+  Google DNS 8.8.8.8 :  | Ping: 55 ms
+  Google DNS 8.8.4.4 :  | Ping: 50 ms
+  Quad9 DNS 9.9.9.9 :  | Ping: 84 ms
+
+Config: Конфиг №4.bat (Type: standard)
+  Discord Main : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 86 ms
+  Discord Gateway : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 85 ms
+  Discord CDN : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 84 ms
+  Discord Updates : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 86 ms
+  YouTube Web : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 58 ms
+  YouTube Short : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 55 ms
+  YouTube Image : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 53 ms
+  YouTube Video Redirect : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 51 ms
+  Google Main : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 53 ms
+  Google Gstatic : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 52 ms
+  Cloudflare Web : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 43 ms
+  Cloudflare CDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 42 ms
+  Cloudflare DNS 1.1.1.1 :  | Ping: 43 ms
+  Cloudflare DNS 1.0.0.1 :  | Ping: 43 ms
+  Google DNS 8.8.8.8 :  | Ping: 55 ms
+  Google DNS 8.8.4.4 :  | Ping: 50 ms
+  Quad9 DNS 9.9.9.9 :  | Ping: 85 ms
+
+Config: Конфиг №5.bat (Type: standard)
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  Discord Gateway : HTTP:ERROR TLS1.2:ERROR TLS1.3:OK    | Ping: 85 ms
+  Discord CDN : HTTP:ERROR TLS1.2:ERROR TLS1.3:OK    | Ping: 85 ms
+  Discord Updates : HTTP:ERROR TLS1.2:ERROR TLS1.3:OK    | Ping: 86 ms
+  YouTube Web : HTTP:ERROR TLS1.2:ERROR TLS1.3:OK    | Ping: 58 ms
+  YouTube Short : HTTP:ERROR TLS1.2:ERROR TLS1.3:OK    | Ping: 55 ms
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  YouTube Video Redirect : HTTP:ERROR TLS1.2:ERROR TLS1.3:OK    | Ping: 52 ms
+  Google Main : HTTP:ERROR TLS1.2:OK    TLS1.3:OK    | Ping: 53 ms
+  Google Gstatic : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 54 ms
+  Cloudflare Web : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 43 ms
+  Cloudflare CDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 42 ms
+  Cloudflare DNS 1.1.1.1 :  | Ping: 43 ms
+  Cloudflare DNS 1.0.0.1 :  | Ping: 43 ms
+  Google DNS 8.8.8.8 :  | Ping: 55 ms
+  Google DNS 8.8.4.4 :  | Ping: 50 ms
+  Quad9 DNS 9.9.9.9 :  | Ping: 84 ms
+
+Config: Конфиг №6(ECO).bat (Type: standard)
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  Discord CDN : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 85 ms
+  Discord Updates : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 81 ms
+  YouTube Web : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 59 ms
+  YouTube Short : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 56 ms
+  YouTube Image : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 53 ms
+  YouTube Video Redirect : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 53 ms
+  Google Main : HTTP:ERROR TLS1.2:ERROR TLS1.3:OK    | Ping: 52 ms
+  Google Gstatic : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 53 ms
+  Cloudflare Web : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 43 ms
+  Cloudflare CDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 42 ms
+  Cloudflare DNS 1.1.1.1 :  | Ping: 43 ms
+  Cloudflare DNS 1.0.0.1 :  | Ping: 43 ms
+  Google DNS 8.8.8.8 :  | Ping: 55 ms
+  Google DNS 8.8.4.4 :  | Ping: 52 ms
+  Quad9 DNS 9.9.9.9 :  | Ping: 84 ms
+
+=== ANALYTICS ===
+Конфиг №5.bat : HTTP OK: 17, ERR: 15, UNSUP: 0, Ping OK: 15, Fail: 2
+Конфиг №2.bat : HTTP OK: 29, ERR: 3, UNSUP: 0, Ping OK: 15, Fail: 2
+Конфиг №1.bat : HTTP OK: 36, ERR: 0, UNSUP: 0, Ping OK: 17, Fail: 0
+Конфиг №4.bat : HTTP OK: 12, ERR: 24, UNSUP: 0, Ping OK: 17, Fail: 0
+Конфиг №6(ECO).bat : HTTP OK: 10, ERR: 22, UNSUP: 0, Ping OK: 15, Fail: 2
+Конфиг №3(FAKE TLS).bat : HTTP OK: 11, ERR: 21, UNSUP: 0, Ping OK: 15, Fail: 2
+Best strategy: Конфиг №1.bat
